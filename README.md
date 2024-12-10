@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Scala: incorrect calculations within methods. The `MyClass` has two methods, `myMethod` and `myOtherMethod`. `myOtherMethod` contains a bug where it subtracts the input `y` from `x` instead of adding them.
